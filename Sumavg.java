@@ -5,10 +5,10 @@
  for(i=0;i<=10;i++)
  {
  sum+=1;
- double avg=sum/10;
+ int avg=sum/10;
  }
  System.out.println("sum:"+sum);
- System.out.println("avg:"+avg);
+
  
  }
  }
