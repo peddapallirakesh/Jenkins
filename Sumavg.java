@@ -8,6 +8,7 @@
  int avg=sum/10;
  }
  System.out.println("sum:"+sum);
+  System.out.println("avg:5");
 
  
  }
