@@ -6,9 +6,10 @@
  {
  sum+=1;
  double avg=sum/10;
+ }
  System.out.println("sum:"+sum);
  System.out.println("avg:"+avg);
- }
+ 
  }
  }
  
